@@ -1,6 +1,10 @@
 # 📅 Vanilla JS로 구현한 주간 플래너
 
-URL : https://my-weekly-plan.netlify.app/
+
+![KakaoTalk_20211216_010945449](https://user-images.githubusercontent.com/80046065/146222357-61bbe7d7-1de1-4e11-99ed-5d3032f7b26b.png)
+
+
+URL : https://my-weekly-plan.netlify.app/ 
 
 ## 목표
 - 자바스크립트를 통해 상태관리 가능한 애플리케이션 개발
